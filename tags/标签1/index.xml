@@ -7,27 +7,22 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>八个狼外婆</copyright>
-        <lastBuildDate>Tue, 17 Dec 2024 11:12:29 +0800</lastBuildDate><atom:link href="https://lxh04.github.io/tags/%E6%A0%87%E7%AD%BE1/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>标题测试2，图片路径</title>
-        <link>https://lxh04.github.io/p/%E6%A0%87%E9%A2%98%E6%B5%8B%E8%AF%952%E5%9B%BE%E7%89%87%E8%B7%AF%E5%BE%84/</link>
-        <pubDate>Tue, 17 Dec 2024 11:12:29 +0800</pubDate>
+        <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://lxh04.github.io/tags/%E6%A0%87%E7%AD%BE1/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>标题</title>
+        <link>https://lxh04.github.io/p/%E6%A0%87%E9%A2%98/</link>
+        <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://lxh04.github.io/p/%E6%A0%87%E9%A2%98%E6%B5%8B%E8%AF%952%E5%9B%BE%E7%89%87%E8%B7%AF%E5%BE%84/</guid>
-        <description>&lt;img src="https://lxh04.github.io/%E5%B0%81%E9%9D%A2" alt="Featured image of post 标题测试2，图片路径" /&gt;&lt;p&gt;![[Pasted image 20241217115218.png]]&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>测试123</title>
-        <link>https://lxh04.github.io/p/%E6%B5%8B%E8%AF%95123/</link>
-        <pubDate>Tue, 17 Dec 2024 08:12:03 +0800</pubDate>
-        
-        <guid>https://lxh04.github.io/p/%E6%B5%8B%E8%AF%95123/</guid>
-        <description>&lt;img src="https://lxh04.github.io/%E5%B0%81%E9%9D%A2" alt="Featured image of post 测试123" /&gt;&lt;p&gt;&lt;img src=&#34;https://lxh04.github.io/Pasted%20image%2020241217085029.png&#34;
-	
-	
-	
+        <guid>https://lxh04.github.io/p/%E6%A0%87%E9%A2%98/</guid>
+        <description>&lt;p&gt;&lt;img src=&#34;https://lxh04.github.io/p/%E6%A0%87%E9%A2%98/kfmwn71q.png&#34;
+	width=&#34;500&#34;
+	height=&#34;500&#34;
+	srcset=&#34;https://lxh04.github.io/p/%E6%A0%87%E9%A2%98/kfmwn71q_hu13758572877342091776.png 480w, https://lxh04.github.io/p/%E6%A0%87%E9%A2%98/kfmwn71q_hu9654147607703813278.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;100&#34;
+		data-flex-basis=&#34;240px&#34;
 	
 &gt;&lt;/p&gt;
 </description>
