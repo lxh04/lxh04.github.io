@@ -27,27 +27,7 @@
     &gt;把 Obsidian 变为 Hugo 博客的集成管理平台 | 胡说&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;目前还有一个问题，obsidian里的文章，直接粘贴截图，自动生成的图片文件名里有空格，到网页里路径出问题打不开。
 解决方法：安装obsidian插件  paste image rename&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://lxh04.github.io/p/obsidian-hugo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E5%B9%B6%E5%8F%91%E5%B8%83%E5%88%B0github%E8%AE%B0%E5%BD%95/test1.png&#34;
-	width=&#34;1666&#34;
-	height=&#34;495&#34;
-	srcset=&#34;https://lxh04.github.io/p/obsidian-hugo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E5%B9%B6%E5%8F%91%E5%B8%83%E5%88%B0github%E8%AE%B0%E5%BD%95/test1_hu7017714896666715953.png 480w, https://lxh04.github.io/p/obsidian-hugo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E5%B9%B6%E5%8F%91%E5%B8%83%E5%88%B0github%E8%AE%B0%E5%BD%95/test1_hu11865365482626185221.png 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;336&#34;
-		data-flex-basis=&#34;807px&#34;
-	
-&gt;&lt;/p&gt;
 </description>
-        </item>
-        <item>
-        <title>测试评论</title>
-        <link>https://lxh04.github.io/p/%E6%B5%8B%E8%AF%95%E8%AF%84%E8%AE%BA/</link>
-        <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-        
-        <guid>https://lxh04.github.io/p/%E6%B5%8B%E8%AF%95%E8%AF%84%E8%AE%BA/</guid>
-        <description></description>
         </item>
         <item>
         <title>Chinese Test</title>
